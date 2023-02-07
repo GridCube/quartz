@@ -1,4 +1,6 @@
 ---
+dg-home: true
+dg-publish: true
 title: TWI Network Project
 enableToc: true
 ---
