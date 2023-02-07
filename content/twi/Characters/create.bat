@@ -1,0 +1,1 @@
+@Echo off & chcp 65001 & For /F "Tokens=* delims= " %%a in ('type characterlist.txt') do type nul >%%a.md
