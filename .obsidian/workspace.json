@@ -12,12 +12,8 @@
             "id": "b1a338643b858053",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "index.html.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             },
             "group": "05d5ca0b95a7dca6"
           }
@@ -34,7 +30,6 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "index.html.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -130,7 +125,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "index.html.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -147,7 +141,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "index.html.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -169,9 +162,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "index.html.md"
-              }
+              "state": {}
             }
           }
         ]
@@ -193,6 +184,7 @@
   },
   "active": "b1a338643b858053",
   "lastOpenFiles": [
+    "index.html.md",
     "content/_index.md",
     "CODE_OF_CONDUCT.md",
     "content/private/private-note.md",
@@ -201,7 +193,6 @@
     "content/twi/Characters/Erin Solstice.md",
     "content/twi/Locations/Wandering Inn.md",
     "content/twi/Characters/Magnolia Reinhart.md",
-    "content/twi/Species/Human.md",
-    "content/twi/Characters/Aaron Vanwell.md"
+    "content/twi/Species/Human.md"
   ]
 }
