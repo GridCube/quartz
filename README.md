@@ -1,19 +1,14 @@
-# Quartz
+---
+dg-home: true
+dg-publish: true
+title: TWI Network Project
+enableToc: true
+---
 
-Host your second brain and [digital garden](https://jzhao.xyz/posts/networked-thought) for free. Quartz features
+# Welcome
 
-1. Extremely fast natural-language search
-2. Customizable and hackable design based on Hugo
-3. Automatically generated backlinks, link previews, and local graph
-4. Built-in CJK + Latex Support and Admonition-style callouts
-5. Support for both Markdown Links and Wikilinks
+This is a personal project about generating a network of Characters of the [[Wandering Inn]] it tracks how characters relate to each other by their species, locations, by their class, by how the associate with each other, and the organizations they belong too.
 
-Check out some of the [amazing gardens that community members](https://quartz.jzhao.xyz/notes/showcase/) have published with Quartz!
+This is an ongoing project being conducted mainly bothering people in the discord channel.
 
-> “[One] who works with the door open gets all kinds of interruptions, but [they] also occasionally gets clues as to what the world is and what might be important.” — Richard Hamming
-
-🔗 Get Started: https://quartz.jzhao.xyz/
-
-![Quartz Example Screenshot](./screenshot.png)*Quartz Example Screenshot*
-
-[Join the Discord Community](https://discord.gg/cRFFHYye7t)
+You can start exploring the network anywhere, but interesting nodes might be [[Erin Solstice]] and [[Goblin]]
