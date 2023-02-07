@@ -6,6 +6,7 @@
       {
         "id": "f1bc7e5b564fd6ca",
         "type": "tabs",
+        "dimension": 42.38578680203046,
         "children": [
           {
             "id": "b1a338643b858053",
@@ -17,7 +18,51 @@
                 "mode": "source",
                 "source": false
               }
-            }
+            },
+            "group": "05d5ca0b95a7dca6"
+          }
+        ]
+      },
+      {
+        "id": "570d84da755a729e",
+        "type": "tabs",
+        "dimension": 57.61421319796954,
+        "children": [
+          {
+            "id": "2bcf43294c6b44a0",
+            "type": "leaf",
+            "state": {
+              "type": "localgraph",
+              "state": {
+                "file": "content/_index.md",
+                "options": {
+                  "collapse-filter": true,
+                  "search": "",
+                  "localJumps": 1,
+                  "localBacklinks": true,
+                  "localForelinks": true,
+                  "localInterlinks": false,
+                  "showTags": false,
+                  "showAttachments": false,
+                  "hideUnresolved": false,
+                  "collapse-color-groups": true,
+                  "colorGroups": [],
+                  "collapse-display": true,
+                  "showArrow": false,
+                  "textFadeMultiplier": 0,
+                  "nodeSizeMultiplier": 1,
+                  "lineSizeMultiplier": 1,
+                  "collapse-forces": true,
+                  "centerStrength": 0.518713248970312,
+                  "repelStrength": 10,
+                  "linkStrength": 1,
+                  "linkDistance": 250,
+                  "scale": 1,
+                  "close": true
+                }
+              }
+            },
+            "group": "05d5ca0b95a7dca6"
           }
         ]
       }
@@ -147,5 +192,16 @@
     }
   },
   "active": "b1a338643b858053",
-  "lastOpenFiles": []
+  "lastOpenFiles": [
+    "CODE_OF_CONDUCT.md",
+    "content/private/private-note.md",
+    "content/templates/post.md",
+    "content/twi/Species/Goblin.md",
+    "content/_index.md",
+    "content/twi/Characters/Erin Solstice.md",
+    "content/twi/Locations/Wandering Inn.md",
+    "content/twi/Characters/Magnolia Reinhart.md",
+    "content/twi/Species/Human.md",
+    "content/twi/Characters/Aaron Vanwell.md"
+  ]
 }
