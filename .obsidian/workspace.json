@@ -12,8 +12,12 @@
             "id": "b1a338643b858053",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "content/_index.md",
+                "mode": "source",
+                "source": false
+              }
             },
             "group": "05d5ca0b95a7dca6"
           }
@@ -30,6 +34,7 @@
             "state": {
               "type": "localgraph",
               "state": {
+                "file": "content/_index.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -125,6 +130,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "content/_index.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -141,6 +147,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "content/_index.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -162,7 +169,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "content/_index.md"
+              }
             }
           }
         ]
