@@ -1,11 +1,11 @@
-Species: [[Goblin]] 
+Species: [[content/twi/Species/Goblin]] 
 
-Class: [[Bard]]
-Class: [[Miner]]
-Class: [[Goblin Soulbard]]
+Class: [[content/twi/Classes/Bard]]
+Class: [[content/twi/Classes/Miner]]
+Class: [[content/twi/Classes/Goblin Soulbard]]
 
-Location: [[Wandering Inn]]
+Location: [[content/twi/Locations/Wandering Inn]]
 
-Affiliation: [[Erin Solstice]]
-Affiliation: [[Lyonette du Marquin]]
-Affiliation: [[Mrsha du Marquin]]
+Affiliation: [[content/twi/Characters/Erin Solstice]]
+Affiliation: [[content/twi/Characters/Lyonette du Marquin]]
+Affiliation: [[content/twi/Characters/Mrsha du Marquin]]

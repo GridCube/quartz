@@ -1,2 +1,2 @@
-Class: [[Goblin Chieftan]]
-Class: [[Big Eater]]
+Class: [[content/twi/Classes/Goblin Chieftan]]
+Class: [[content/twi/Classes/Big Eater]]

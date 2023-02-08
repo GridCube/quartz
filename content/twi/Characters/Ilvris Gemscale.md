@@ -1,21 +1,21 @@
-Species: [[Drake]]
+Species: [[content/twi/Species/Drake]]
 
-Class: [[Wall Lord]]
+Class: [[content/twi/Classes/Wall Lord]]
 
-Location: [[Salazsar]]
-Location: [[Liscor]]
-Location: [[Wandering Inn]]
+Location: [[content/twi/Locations/Salazsar]]
+Location: [[content/twi/Locations/Liscor]]
+Location: [[content/twi/Locations/Wandering Inn]]
 
-Affiliation: [[Erin Solstice]]
-Affiliation: [[Lyonette du Marquin]]
-Affiliation: [[Zel Shivertail]]
-Affiliation: [[Periss]]
-Affiliation: [[Zail Gemscale]]
-Affiliation: [[Nerul Gemscale]]
-Affiliation: [[Navine Gemscale]]
-Affiliation: [[Helessia Gemscale]]
+Affiliation: [[content/twi/Characters/Erin Solstice]]
+Affiliation: [[content/twi/Characters/Lyonette du Marquin]]
+Affiliation: [[content/twi/Characters/Zel Shivertail]]
+Affiliation: [[content/twi/Characters/Periss]]
+Affiliation: [[content/twi/Characters/Zail Gemscale]]
+Affiliation: [[content/twi/Characters/Nerul Gemscale]]
+Affiliation: [[content/twi/Characters/Navine Gemscale]]
+Affiliation: [[content/twi/Characters/Helessia Gemscale]]
 
-Organization: [[Walled Cities]]
-Organization: [[Gemscale Family]]
+Organization: [[content/twi/Organization/Walled Cities]]
+Organization: [[content/twi/Organization/Gemscale Family]]
 
 

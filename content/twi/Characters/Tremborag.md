@@ -1,5 +1,5 @@
-Species: [[Goblin]]
+Species: [[content/twi/Species/Goblin]]
 
-Class: [[Goblin Chieftan]]
+Class: [[content/twi/Classes/Goblin Chieftan]]
 
-Organization: [[Mountain City Tribe]]
+Organization: [[content/twi/Organization/Mountain City Tribe]]

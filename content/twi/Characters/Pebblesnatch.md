@@ -1,1 +1,1 @@
-Species: [[Goblin]]
+Species: [[content/twi/Species/Goblin]]

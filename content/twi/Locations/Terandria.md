@@ -1,1 +1,1 @@
-[[Calanfer]]
+[[content/twi/Locations/Calanfer]]

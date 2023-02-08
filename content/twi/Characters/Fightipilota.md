@@ -1,10 +1,10 @@
-Species: [[Goblin]]
+Species: [[content/twi/Species/Goblin]]
 
-Class: [[Wyvern Rider]]
+Class: [[content/twi/Classes/Wyvern Rider]]
 
-Affiliation: [[Rags]]
-Affiliation: [[Kevin Hall]]
+Affiliation: [[content/twi/Characters/Rags]]
+Affiliation: [[content/twi/Characters/Kevin Hall]]
 
-Location: [[Goblinhome]]
+Location: [[content/twi/Locations/Goblinhome]]
 
-Group: [[Flooded Waters Tribe]]
+Group: [[content/twi/Organization/Flooded Waters Tribe]]

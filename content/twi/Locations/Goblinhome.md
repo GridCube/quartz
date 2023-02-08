@@ -1,5 +1,5 @@
-Location: [[High Passes]]
-Location: [[Izril]]
+Location: [[content/twi/Locations/High Passes]]
+Location: [[content/twi/Locations/Izril]]
 
 ```dataview
 LIST

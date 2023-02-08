@@ -1,8 +1,8 @@
-Species: [[Goblin]]
-Species: [[Hobgoblin]]
+Species: [[content/twi/Species/Goblin]]
+Species: [[content/twi/Species/Hobgoblin]]
 
-Class: [[Witch]]
+Class: [[content/twi/Classes/Witch]]
 
-Affiliation: [[Anazurhe]]
+Affiliation: [[content/twi/Characters/Anazurhe]]
 
-Organization: [[Molten Stone Tribe]]
+Organization: [[content/twi/Organization/Molten Stone Tribe]]

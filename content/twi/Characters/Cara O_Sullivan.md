@@ -1,13 +1,13 @@
-Species: [[Human]] 
-Species: [[Earther]]
+Species: [[content/twi/Species/Human]] 
+Species: [[content/twi/Species/Earther]]
 
-Class: [[Pop Star]]
-Class: [[Thespian]]
+Class: [[content/twi/Classes/Pop Star]]
+Class: [[content/twi/Classes/Thespian]]
 
-Location: [[Terandria]]
-Location: [[Afiele]]
+Location: [[content/twi/Locations/Terandria]]
+Location: [[content/twi/Locations/Afiele]]
 
-Affiliation: [[Abebi]]
+Affiliation: [[content/twi/Characters/Abebi]]
 
-Organization: [[The Singer's Band]]
+Organization: [[content/twi/Organization/The Singer's Band]]
 

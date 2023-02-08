@@ -1,19 +1,19 @@
-Species: [[Goblin]]
-Species: [[Hobgoblin]]
+Species: [[content/twi/Species/Goblin]]
+Species: [[content/twi/Species/Hobgoblin]]
 
-Class: [[Goblin Chieftan]]
-Class: [[Beast Tamer]]
-Class: [[Dragoon]]
+Class: [[content/twi/Classes/Goblin Chieftan]]
+Class: [[content/twi/Classes/Beast Tamer]]
+Class: [[content/twi/Classes/Dragoon]]
 
-Location: [[Izril]]
+Location: [[content/twi/Locations/Izril]]
 
-Affiliation: [[Rags]]
-Affiliation: [[Reiss]]
-Affiliation: [[Tremborag]]
+Affiliation: [[content/twi/Characters/Rags]]
+Affiliation: [[content/twi/Characters/Reiss]]
+Affiliation: [[content/twi/Characters/Tremborag]]
 
-Organization: [[Flooded Waters Tribe]]
-Organization: [[Redfang Elite Warriors]]
-Organization: [[Halfseekers]]
-Organization: [[Ghostly Hand Tribe]]
-Organization: [[Redfang Tribe]]
+Organization: [[content/twi/Organization/Flooded Waters Tribe]]
+Organization: [[content/twi/Organization/Redfang Elite Warriors]]
+Organization: [[content/twi/Organization/Halfseekers]]
+Organization: [[content/twi/Organization/Ghostly Hand Tribe]]
+Organization: [[content/twi/Organization/Redfang Tribe]]
 

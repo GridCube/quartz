@@ -1,4 +1,4 @@
-Species: [[Dead God]]
+Species: [[content/twi/Species/Dead God]]
 
-Organization: [[The Six]]
+Organization: [[content/twi/Organization/The Six]]
 

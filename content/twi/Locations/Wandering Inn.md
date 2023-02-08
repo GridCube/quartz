@@ -1,1 +1,1 @@
-[[Liscor]]
+[[content/twi/Locations/Liscor]]

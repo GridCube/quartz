@@ -1,10 +1,10 @@
-Species: [[Human]]
-Species: [[Earther]]
+Species: [[content/twi/Species/Human]]
+Species: [[content/twi/Species/Earther]]
 
-Class: [[Manager]]
+Class: [[content/twi/Classes/Manager]]
 
-Location: [[Terandria]]
+Location: [[content/twi/Locations/Terandria]]
 
-Affiliation: [[Cara O'Sullivan]]
+Affiliation: [[content/twi/Characters/Cara O'Sullivan]]
 
-Organization: [[The Singer's Band]]
+Organization: [[content/twi/Organization/The Singer's Band]]

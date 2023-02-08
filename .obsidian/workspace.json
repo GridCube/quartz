@@ -6,7 +6,7 @@
       {
         "id": "f1bc7e5b564fd6ca",
         "type": "tabs",
-        "dimension": 63.89593908629442,
+        "dimension": 50,
         "children": [
           {
             "id": "b1a338643b858053",
@@ -14,7 +14,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "content/twi/Characters/Erin Solstice.md",
+                "file": "content/twi/Characters/Fetohep.md",
                 "mode": "source",
                 "source": false
               }
@@ -24,17 +24,17 @@
         ]
       },
       {
-        "id": "570d84da755a729e",
+        "id": "f68ab106ce68a6e0",
         "type": "tabs",
-        "dimension": 36.10406091370558,
+        "dimension": 50,
         "children": [
           {
-            "id": "2bcf43294c6b44a0",
+            "id": "4c446dc0094fffdb",
             "type": "leaf",
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "content/twi/Characters/Erin Solstice.md",
+                "file": "content/twi/Characters/Fetohep.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -130,7 +130,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "content/twi/Characters/Erin Solstice.md",
+                "file": "content/twi/Characters/Fetohep.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -147,7 +147,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "content/twi/Characters/Erin Solstice.md",
+                "file": "content/twi/Characters/Fetohep.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -170,7 +170,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "content/twi/Characters/Erin Solstice.md"
+                "file": "content/twi/Characters/Fetohep.md"
               }
             }
           }
@@ -191,17 +191,17 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "b1a338643b858053",
+  "active": "4c446dc0094fffdb",
   "lastOpenFiles": [
-    "content/twi/Locations/Wandering Inn.md",
-    "content/twi/Characters/Erin Solstice.md",
+    "content/twi/Characters/Mrsha du Marquin.md",
     "content/_index.md",
+    "content/twi/Characters/Erin Solstice.md",
+    "content/twi/Classes/Witch of Second Chances.md",
+    "content/twi/Classes/Witch.md",
+    "content/twi/Locations/Wandering Inn.md",
     "README.md",
     "content/twi/Species/Goblin.md",
     "content/private/private-note.md",
-    "index.html.md",
-    "CODE_OF_CONDUCT.md",
-    "content/templates/post.md",
-    "content/twi/Characters/Magnolia Reinhart.md"
+    "index.html.md"
   ]
 }

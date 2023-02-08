@@ -1,13 +1,13 @@
-Species: [[Human]]
+Species: [[content/twi/Species/Human]]
 
-Class: [[Druid]]
-Class: [[Gardener]]
+Class: [[content/twi/Classes/Druid]]
+Class: [[content/twi/Classes/Gardener]]
 
-Location: [[Reinhart Family Lands]]
-Location: [[Invrisil]]
-Location: [[Oteslia]]
+Location: [[content/twi/Locations/Reinhart Family Lands]]
+Location: [[content/twi/Locations/Invrisil]]
+Location: [[content/twi/Locations/Oteslia]]
 
-Affiliation: [[Magnolia Reinhart]]
+Affiliation: [[content/twi/Characters/Magnolia Reinhart]]
 
-Organization: [[Izril's Druids]]
-Organization: [[Reinhart Family]]
+Organization: [[content/twi/Organization/Izril's Druids]]
+Organization: [[content/twi/Organization/Reinhart Family]]

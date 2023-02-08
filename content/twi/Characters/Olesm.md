@@ -1,8 +1,8 @@
-Species: [[Drake]]
+Species: [[content/twi/Species/Drake]]
 
-Class: [[Strategist]]
+Class: [[content/twi/Classes/Strategist]]
 
-Location: [[Liscor]]
+Location: [[content/twi/Locations/Liscor]]
 
-Affiliation: [[Wandering Inn]]
-Affiliation: [[Erin Solstice]]
+Affiliation: [[content/twi/Locations/Wandering Inn]]
+Affiliation: [[content/twi/Characters/Erin Solstice]]

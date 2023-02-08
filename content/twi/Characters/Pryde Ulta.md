@@ -1,11 +1,11 @@
-Species: [[Human]]
+Species: [[content/twi/Species/Human]]
 
-Class: [[Lady of Pride]]
+Class: [[content/twi/Classes/Lady of Pride]]
 
-Location: [[Ulta lands]]
+Location: [[content/twi/Locations/Ulta lands]]
 
-Affiliation: [[Magnolia Reinhart]]
-Affiliation: [[Grimalkin Duveig]]
+Affiliation: [[content/twi/Characters/Magnolia Reinhart]]
+Affiliation: [[content/twi/Characters/Grimalkin Duveig]]
 
-Organization: [[Five Families of Izril]]
-Organization: [[Ulta Family]]
+Organization: [[content/twi/Organization/Five Families of Izril]]
+Organization: [[content/twi/Organization/Ulta Family]]

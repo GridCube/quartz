@@ -1,4 +1,4 @@
-Location: [[Terandria]]
+Location: [[content/twi/Locations/Terandria]]
 
   Reclis (Father)
     Ielane (Mother)

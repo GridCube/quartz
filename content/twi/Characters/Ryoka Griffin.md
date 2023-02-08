@@ -1,17 +1,17 @@
-Species: [[Human]]
-Species: [[Earther]]
+Species: [[content/twi/Species/Human]]
+Species: [[content/twi/Species/Earther]]
 
-Class: [[Classless]]
+Class: [[content/twi/Classes/Classless]]
 
-Location: [[Izril]]
-Location: [[Wandering Inn]]
-Location: [[Reizmelt]]
+Location: [[content/twi/Locations/Izril]]
+Location: [[content/twi/Locations/Wandering Inn]]
+Location: [[content/twi/Locations/Reizmelt]]
 
-Affiliation: [[Erin Solstice]]
-Affiliation: [[Mrsha du Marquin]]
-Affiliation: [[Teriarch]]
+Affiliation: [[content/twi/Characters/Erin Solstice]]
+Affiliation: [[content/twi/Characters/Mrsha du Marquin]]
+Affiliation: [[content/twi/Characters/Teriarch]]
 
-Organization: [[Runner's Guild]]
-Organization: [[Wandering Inn Family]]
-Organization: [[Veltras Family]]
+Organization: [[content/twi/Organization/Runner's Guild]]
+Organization: [[content/twi/Organization/Wandering Inn Family]]
+Organization: [[content/twi/Organization/Veltras Family]]
 

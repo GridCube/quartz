@@ -1,16 +1,16 @@
-Species: [[Drowned People]]
+Species: [[content/twi/Species/Drowned People]]
 
-Class: [[Depth Rogue]]
-Class: [[Faith Seeker]]
-Class: [[Pirate]]
+Class: [[content/twi/Classes/Depth Rogue]]
+Class: [[content/twi/Classes/Faith Seeker]]
+Class: [[content/twi/Classes/Pirate]]
 
-Location: [[Izril]]
-Location: [[Wandering Inn]]
+Location: [[content/twi/Locations/Izril]]
+Location: [[content/twi/Locations/Wandering Inn]]
 
-Affiliation: [[Pawn]]
-Affiliation: [[Erin Solstice]]
-Affiliation: [[Therrium Sailwinds]]
-Affiliation: [[Wailant Strongheart]]
+Affiliation: [[content/twi/Characters/Pawn]]
+Affiliation: [[content/twi/Characters/Erin Solstice]]
+Affiliation: [[content/twi/Characters/Therrium Sailwinds]]
+Affiliation: [[content/twi/Characters/Wailant Strongheart]]
 
-Organization: [[Halfseekers]]
-Organization: [[Wandering Inn Friends]]
+Organization: [[content/twi/Organization/Halfseekers]]
+Organization: [[content/twi/Organization/Wandering Inn Friends]]

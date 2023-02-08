@@ -1,1 +1,1 @@
-[[Terandria]]
+[[content/twi/Locations/Terandria]]

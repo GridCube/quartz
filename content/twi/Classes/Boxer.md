@@ -1,1 +1,1 @@
-Class: [[Fist Fighter]]
+Class: [[content/twi/Classes/Fist Fighter]]

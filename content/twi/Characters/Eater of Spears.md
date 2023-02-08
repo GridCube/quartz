@@ -1,8 +1,8 @@
-Species: [[Goblin]]
-Species: [[Hobgoblin]]
+Species: [[content/twi/Species/Goblin]]
+Species: [[content/twi/Species/Hobgoblin]]
 
-Class: [[Thrower]]
+Class: [[content/twi/Classes/Thrower]]
 
-Affiliation: [[Reiss]]
+Affiliation: [[content/twi/Characters/Reiss]]
 
-Organization: [[Reiss' Army]]
+Organization: [[content/twi/Organization/Reiss' Army]]

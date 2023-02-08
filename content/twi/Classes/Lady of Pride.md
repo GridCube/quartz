@@ -1,1 +1,1 @@
-Class: [[Lady]]
+Class: [[content/twi/Classes/Lady]]

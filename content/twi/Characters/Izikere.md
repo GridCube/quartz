@@ -1,11 +1,11 @@
-Species: [[Goblin]]
+Species: [[content/twi/Species/Goblin]]
 
-Class: [[Shaman]]
-Class: [[Goblin Lord]]
+Class: [[content/twi/Classes/Shaman]]
+Class: [[content/twi/Classes/Goblin Lord]]
 
-Affiliation: [[Greydath]]
+Affiliation: [[content/twi/Characters/Greydath]]
 
-Location: [[Goblin Island]]
+Location: [[content/twi/Locations/Goblin Island]]
 
-Organization: [[Isle of Goblins Tribe]]
+Organization: [[content/twi/Organization/Isle of Goblins Tribe]]
 

@@ -1,16 +1,16 @@
-Species: [[Goblin]]
-Species: [[Hobgoblin]]
+Species: [[content/twi/Species/Goblin]]
+Species: [[content/twi/Species/Hobgoblin]]
 
-Class: [[Cook]]
-Class: [[Chef]]
-Class: [[Spice Chef]]
+Class: [[content/twi/Classes/Cook]]
+Class: [[content/twi/Classes/Chef]]
+Class: [[content/twi/Classes/Spice Chef]]
 
-Location: [[Goblinhome]]
-Location: [[Wandering Inn]]
+Location: [[content/twi/Locations/Goblinhome]]
+Location: [[content/twi/Locations/Wandering Inn]]
 
-Affiliation: [[Rags]]
-Affiliation: [[Erin Solstice]]
+Affiliation: [[content/twi/Characters/Rags]]
+Affiliation: [[content/twi/Characters/Erin Solstice]]
 
-Organization: [[Flooded Waters Tribe]]
-Organization: [[Wandering Inn Employee]]
+Organization: [[content/twi/Organization/Flooded Waters Tribe]]
+Organization: [[content/twi/Organization/Wandering Inn Employee]]
 

@@ -1,16 +1,16 @@
-Species: [[Drake]]
+Species: [[content/twi/Species/Drake]]
 
-Class: [[Sinew Magus]]
+Class: [[content/twi/Classes/Sinew Magus]]
 
-Location: [[Pallass]]
+Location: [[content/twi/Locations/Pallass]]
 
-Affiliation: [[Erin Solstice]]
-Affiliation: [[Pryde Ulta]]
-Affiliation: [[Chaldion Oliwing]]
-Affiliation: [[Saliss Oliwing]]
+Affiliation: [[content/twi/Characters/Erin Solstice]]
+Affiliation: [[content/twi/Characters/Pryde Ulta]]
+Affiliation: [[content/twi/Characters/Chaldion Oliwing]]
+Affiliation: [[content/twi/Characters/Saliss Oliwing]]
 
-Organization: [[Pallass' Army]]
-Organization: [[Wandering Inn Friends]]
-Organization: [[Walled Cities]]
-Organization: [[Sinew School of Magic]]
+Organization: [[content/twi/Organization/Pallass' Army]]
+Organization: [[content/twi/Organization/Wandering Inn Friends]]
+Organization: [[content/twi/Organization/Walled Cities]]
+Organization: [[content/twi/Organization/Sinew School of Magic]]
 

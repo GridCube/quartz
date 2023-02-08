@@ -1,5 +1,5 @@
-Species: [[Goblin]]
+Species: [[content/twi/Species/Goblin]]
 
-Class: [[Goblin King]]
-Class: [[Alchemist]]
+Class: [[content/twi/Classes/Goblin King]]
+Class: [[content/twi/Classes/Alchemist]]
 
