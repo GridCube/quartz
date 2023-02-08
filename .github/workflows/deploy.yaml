@@ -35,5 +35,5 @@ jobs:
         with:
           github_token: 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
           publish_dir: ./public
-          publish_branch: master  # deploying branch
-          cname: gridcube.github.io/quartz
+          publish_branch: hugo  # deploying branch
+          cname: gridcube.github.io/quartz/
