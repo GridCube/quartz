@@ -14,7 +14,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "content/twi/Characters/Fetohep.md",
+                "file": "content/_index.md",
                 "mode": "source",
                 "source": false
               }
@@ -34,7 +34,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "content/twi/Characters/Fetohep.md",
+                "file": "content/_index.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -130,7 +130,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "content/twi/Characters/Fetohep.md",
+                "file": "content/_index.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -147,7 +147,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "content/twi/Characters/Fetohep.md",
+                "file": "content/_index.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -170,7 +170,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "content/twi/Characters/Fetohep.md"
+                "file": "content/_index.md"
               }
             }
           }
@@ -191,8 +191,9 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "4c446dc0094fffdb",
+  "active": "b1a338643b858053",
   "lastOpenFiles": [
+    "content/twi/Characters/Fetohep.md",
     "content/twi/Characters/Mrsha du Marquin.md",
     "content/_index.md",
     "content/twi/Characters/Erin Solstice.md",
@@ -201,7 +202,6 @@
     "content/twi/Locations/Wandering Inn.md",
     "README.md",
     "content/twi/Species/Goblin.md",
-    "content/private/private-note.md",
-    "index.html.md"
+    "content/private/private-note.md"
   ]
 }
