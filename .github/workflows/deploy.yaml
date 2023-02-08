@@ -33,7 +33,7 @@ jobs:
       - name: Deploy
         uses: peaceiris/actions-gh-pages@v3
         with:
-          github_token: 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
+          github_token: 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
           publish_dir: ./public
-          publish_branch: hugo  # deploying branch
+          publish_branch: master  # deploying branch
           cname: gridcube.github.io/quartz/
