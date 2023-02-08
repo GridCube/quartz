@@ -14,7 +14,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "content/private/private-note.md",
+                "file": "README.md",
                 "mode": "source",
                 "source": false
               }
@@ -34,7 +34,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "content/private/private-note.md",
+                "file": "README.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -130,7 +130,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "content/private/private-note.md",
+                "file": "README.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -147,7 +147,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "content/private/private-note.md",
+                "file": "README.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -170,7 +170,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "content/private/private-note.md"
+                "file": "README.md"
               }
             }
           }
@@ -194,11 +194,11 @@
   },
   "active": "b1a338643b858053",
   "lastOpenFiles": [
+    "content/private/private-note.md",
     "README.md",
     "content/_index.md",
     "index.html.md",
     "CODE_OF_CONDUCT.md",
-    "content/private/private-note.md",
     "content/templates/post.md",
     "content/twi/Species/Goblin.md",
     "content/twi/Characters/Erin Solstice.md",
