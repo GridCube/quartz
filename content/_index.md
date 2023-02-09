@@ -11,4 +11,4 @@ This is a personal project about generating a network of Characters of the [[con
 
 This is an ongoing project being conducted mainly bothering people in the discord channel.
 
-You can start exploring the network anywhere, but interesting nodes might be [[content/twi/Characters/Erin Solstice]] and [[https://github.com/GridCube/quartz/tree/hugo/content/twi/Species/Goblin]]
+You can start exploring the network anywhere, but interesting nodes might be [[content/twi/Characters/Erin Solstice]] and [[content/twi/Species/Goblin]]
