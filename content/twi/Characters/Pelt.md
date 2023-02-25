@@ -1,1 +1,1 @@
-Species: [[content/twi/Species/Dwarf]]
+Species: [[twi/Species/Dwarf]]

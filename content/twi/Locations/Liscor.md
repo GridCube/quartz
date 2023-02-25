@@ -1,3 +1,3 @@
 
-[[content/twi/Locations/Izril]]
+[[twi/Locations/Izril]]
 

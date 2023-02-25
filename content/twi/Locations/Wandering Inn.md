@@ -1,1 +1,6 @@
-[[content/twi/Locations/Liscor]]
+[[twi/Locations/Liscor]]
+
+```dataview
+LIST
+FROM [[]]
+```

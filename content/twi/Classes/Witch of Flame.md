@@ -1,1 +1,1 @@
-Class: [[content/twi/Classes/Witch]]
+Class: [[twi/Classes/Witch]]

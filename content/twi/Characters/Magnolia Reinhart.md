@@ -1,17 +1,17 @@
-Species: [[content/twi/Species/Human]]
+Species: [[twi/Species/Human]]
 
-Class: [[content/twi/Classes/Lady]]
+Class: [[twi/Classes/Lady]]
 
-Location: [[content/twi/Locations/Izril]]
-Location: [[content/twi/Locations/Invrisil]]
-Location: [[content/twi/Locations/Celum]]
-Location: [[content/twi/Locations/Reinhart Family Lands]]
+Location: [[twi/Locations/Izril]]
+Location: [[twi/Locations/Invrisil]]
+Location: [[twi/Locations/Celum]]
+Location: [[twi/Locations/Reinhart Family Lands]]
 
-Affiliation: [[content/twi/Characters/Ressa]]
-Affiliation: [[content/twi/Characters/Teriarch]]
-Affiliation: [[content/twi/Characters/Zel Shivertail]]
-Affiliation: [[content/twi/Characters/Nalthaliarstrelous]]
+Affiliation: [[twi/Characters/Ressa]]
+Affiliation: [[twi/Characters/Teriarch]]
+Affiliation: [[twi/Characters/Zel Shivertail]]
+Affiliation: [[twi/Characters/Nalthaliarstrelous]]
 
-Organization: [[content/twi/Organization/Five Families of Izril]]
-Organization: [[content/twi/Organization/Reinhart Family]]
+Organization: [[twi/Organization/Five Families of Izril]]
+Organization: [[twi/Organization/Reinhart Family]]
 

@@ -1,1 +1,1 @@
-Class: [[content/twi/Classes/Warrior]]
+Class: [[twi/Classes/Warrior]]

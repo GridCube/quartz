@@ -1,9 +1,9 @@
-Species: [[content/twi/Species/String People]]
+Species: [[twi/Species/String People]]
 
-Class: [[content/twi/Classes/Javelineer Commander]]
+Class: [[twi/Classes/Javelineer Commander]]
 
-Location: [[content/twi/Locations/Ulta lands]]
+Location: [[twi/Locations/Ulta lands]]
 
-Affiliation: [[content/twi/Characters/Pryde Ulta]]
+Affiliation: [[twi/Characters/Pryde Ulta]]
 
-Organization: [[content/twi/Organization/Ulta Family]]
+Organization: [[twi/Organization/Ulta Family]]

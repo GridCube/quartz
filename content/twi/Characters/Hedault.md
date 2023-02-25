@@ -1,13 +1,13 @@
-Species: [[content/twi/Species/Human]]
+Species: [[twi/Species/Human]]
 
-Class: [[content/twi/Classes/Enchanter]]
-Class: [[content/twi/Classes/Mage]]
+Class: [[twi/Classes/Enchanter]]
+Class: [[twi/Classes/Mage]]
 
-Location: [[content/twi/Locations/Invrisil]]
+Location: [[twi/Locations/Invrisil]]
 
-Affiliation: [[content/twi/Characters/Kevin Hall]]
-Affiliation: [[content/twi/Characters/Palt]]
-Affiliation: [[content/twi/Characters/Ryoka Griffin]]
-Affiliation: [[content/twi/Organization/Horns of Hammerad v2]]
+Affiliation: [[twi/Characters/Kevin Hall]]
+Affiliation: [[twi/Characters/Palt]]
+Affiliation: [[twi/Characters/Ryoka Griffin]]
+Affiliation: [[twi/Organization/Horns of Hammerad v2]]
 
-Organization: [[content/twi/Organization/Solar Cycles]]
+Organization: [[twi/Organization/Solar Cycles]]

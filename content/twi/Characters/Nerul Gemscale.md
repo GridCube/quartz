@@ -1,3 +1,3 @@
-Species: [[content/twi/Species/Drake]]
+Species: [[twi/Species/Drake]]
 
 Class: 

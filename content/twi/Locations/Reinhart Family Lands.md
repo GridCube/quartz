@@ -1,2 +1,2 @@
-Organization: [[content/twi/Organization/Five Families of Izril]]
+Organization: [[twi/Organization/Five Families of Izril]]
 

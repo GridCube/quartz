@@ -1,16 +1,16 @@
 		
-Species: [[content/twi/Species/Human]]
-Species: [[content/twi/Species/Earther]]
+Species: [[twi/Species/Human]]
+Species: [[twi/Species/Earther]]
 
-Class: [[content/twi/Classes/Mage]]
-Class: [[content/twi/Classes/Engineer]]
-Class: [[content/twi/Classes/Magitech Engineer]]
+Class: [[twi/Classes/Mage]]
+Class: [[twi/Classes/Engineer]]
+Class: [[twi/Classes/Magitech Engineer]]
 
-Location: [[content/twi/Locations/Wistram]]
+Location: [[twi/Locations/Wistram]]
 
-Affiliation: [[content/twi/Characters/Emerrhain]]
+Affiliation: [[twi/Characters/Emerrhain]]
 
-Organization: [[content/twi/Organization/Ullsinoi]]
+Organization: [[twi/Organization/Ullsinoi]]
 
 
 

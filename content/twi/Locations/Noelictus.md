@@ -1,2 +1,2 @@
-[[content/twi/Locations/Terandria]]
-[[content/twi/Locations/Afiele]]
+[[twi/Locations/Terandria]]
+[[twi/Locations/Afiele]]

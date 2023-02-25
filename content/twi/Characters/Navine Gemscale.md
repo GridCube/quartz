@@ -1,9 +1,9 @@
-Species: [[content/twi/Species/Drake]]
+Species: [[twi/Species/Drake]]
 
-Class: [[content/twi/Classes/Wall Lady]]
+Class: [[twi/Classes/Wall Lady]]
 
-Location: [[content/twi/Locations/Salazsar]]
+Location: [[twi/Locations/Salazsar]]
 
-Affiliation: [[content/twi/Characters/Helessia Gemscale]]
+Affiliation: [[twi/Characters/Helessia Gemscale]]
 
-Organization: [[content/twi/Organization/Gemscale Family]]
+Organization: [[twi/Organization/Gemscale Family]]

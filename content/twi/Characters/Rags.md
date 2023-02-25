@@ -1,9 +1,9 @@
-Species: [[content/twi/Species/Goblin]]
+Species: [[twi/Species/Goblin]]
 
-Class: [[content/twi/Classes/Goblin Chieftan]]
+Class: [[twi/Classes/Goblin Chieftan]]
 
-Location: [[content/twi/Locations/Goblinhome]]
+Location: [[twi/Locations/Goblinhome]]
 
-Affiliation: [[content/twi/Characters/Erin Solstice]]
+Affiliation: [[twi/Characters/Erin Solstice]]
 
-Organization: [[content/twi/Organization/Flooded Waters Tribe]]
+Organization: [[twi/Organization/Flooded Waters Tribe]]

@@ -1,0 +1,27 @@
+{
+  "filters": {
+    "doShowOrphans": true
+  },
+  "groups": {
+    "groups": [
+      {
+        "query": "Characters",
+        "color": "#e70808"
+      },
+      {
+        "query": "Species",
+        "color": "#7a8bc7"
+      },
+      {
+        "query": "Locations",
+        "color": "#54b71f"
+      }
+    ]
+  },
+  "display": {
+    "nodeSize": 4,
+    "linkThickness": 5,
+    "particleSize": 6,
+    "particleCount": 4
+  }
+}

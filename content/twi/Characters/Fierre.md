@@ -1,18 +1,18 @@
 Serafierre val Lischelle-Drakle
 
-Species: [[content/twi/Species/Vampire]]
+Species: [[twi/Species/Vampire]]
 
-Class: [[content/twi/Classes/Assassin]]
+Class: [[twi/Classes/Assassin]]
 
-Location: [[content/twi/Locations/Reizmelt]]
-Location: [[content/twi/Locations/Invrisil]]
-Location: [[content/twi/Locations/Wandering Inn]]
+Location: [[twi/Locations/Reizmelt]]
+Location: [[twi/Locations/Invrisil]]
+Location: [[twi/Locations/Wandering Inn]]
 
-Affiliation: [[content/twi/Characters/Ryoka Griffin]]
-Affiliation: [[content/twi/Characters/Gothica]]
-Affiliation: [[content/twi/Characters/Alber]]
-Affiliation: [[content/twi/Characters/Niers Astoragon]]
+Affiliation: [[twi/Characters/Ryoka Griffin]]
+Affiliation: [[twi/Characters/Gothica]]
+Affiliation: [[twi/Characters/Alber]]
+Affiliation: [[twi/Characters/Niers Astoragon]]
 
-Organization: [[content/twi/Organization/Fellowship of the Inn]]
-Organization: [[content/twi/Organization/Bloody Secrets]]
+Organization: [[twi/Organization/Fellowship of the Inn]]
+Organization: [[twi/Organization/Bloody Secrets]]
 

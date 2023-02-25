@@ -1,11 +1,11 @@
-Species: [[content/twi/Species/Human]]
+Species: [[twi/Species/Human]]
 
-Class: [[content/twi/Classes/Fist Fighter]]
-Class: [[content/twi/Classes/Boxer]]
+Class: [[twi/Classes/Fist Fighter]]
+Class: [[twi/Classes/Boxer]]
 
-Location: [[content/twi/Locations/Reizmelt]]
-Location: [[content/twi/Locations/Invrisil]]
+Location: [[twi/Locations/Reizmelt]]
+Location: [[twi/Locations/Invrisil]]
 
-Affiliation: [[content/twi/Characters/Ryoka Griffin]]
-Affiliation: [[content/twi/Characters/Fierre]]
+Affiliation: [[twi/Characters/Ryoka Griffin]]
+Affiliation: [[twi/Characters/Fierre]]
 

@@ -1,9 +1,9 @@
-Species: [[content/twi/Species/Goblin]]
-Species: [[content/twi/Species/Hobgoblin]]
+Species: [[twi/Species/Goblin]]
+Species: [[twi/Species/Hobgoblin]]
 
-Location: [[content/twi/Locations/Izril]]
+Location: [[twi/Locations/Izril]]
 
-Organization: [[content/twi/Organization/Redfang Elite Warriors]]
-Organization: [[content/twi/Organization/Flooded Waters Tribe]]
-Organization: [[content/twi/Organization/Redfang Tribe]]
+Organization: [[twi/Organization/Redfang Elite Warriors]]
+Organization: [[twi/Organization/Flooded Waters Tribe]]
+Organization: [[twi/Organization/Redfang Tribe]]
 

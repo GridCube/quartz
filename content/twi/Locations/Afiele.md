@@ -1,2 +1,2 @@
-[[content/twi/Locations/Terandria]]
-[[content/twi/Locations/Noelictus]]
+[[twi/Locations/Terandria]]
+[[twi/Locations/Noelictus]]

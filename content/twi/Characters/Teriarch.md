@@ -1,8 +1,9 @@
-Species: [[content/twi/Species/Dragon]]
+Species: [[twi/Species/Dragon]]
 
-Class: [[content/twi/Classes/Classless]]
+Class: [[twi/Classes/Classless]]
 
-Location: [[content/twi/Locations/High Passes]]
+Location: [[twi/Locations/High Passes]]
 
-Affiliation: [[content/twi/Characters/Ryoka Griffin]]
-Affiliation: [[content/twi/Characters/Magnolia Reinhart]]
+Affiliation: [[twi/Characters/Ryoka Griffin]]
+Affiliation: [[twi/Characters/Magnolia Reinhart]]
+

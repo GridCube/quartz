@@ -1,1 +1,1 @@
-Class: [[content/twi/Classes/Sniper]]
+Class: [[twi/Classes/Sniper]]

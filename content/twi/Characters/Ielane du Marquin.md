@@ -1,11 +1,11 @@
-Species: [[content/twi/Species/Human]]
+Species: [[twi/Species/Human]]
 
-Class: [[content/twi/Classes/Queen]]
+Class: [[twi/Classes/Queen]]
 
-Location: [[content/twi/Locations/Terandria]]
-Location: [[content/twi/Locations/Calanfer]]
+Location: [[twi/Locations/Terandria]]
+Location: [[twi/Locations/Calanfer]]
 
-Affiliation: [[content/twi/Characters/Reclis du Marquin]]
-Affiliation: [[content/twi/Characters/Lyonette du Marquin]]
+Affiliation: [[twi/Characters/Reclis du Marquin]]
+Affiliation: [[twi/Characters/Lyonette du Marquin]]
 
-Organization: [[content/twi/Organization/Eternal Lands of Calanfer]]
+Organization: [[twi/Organization/Eternal Lands of Calanfer]]

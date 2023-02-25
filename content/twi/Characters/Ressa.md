@@ -1,9 +1,13 @@
-Species: [[content/twi/Species/Human]]
+Species: [[twi/Species/Human]]
 
-Class: [[content/twi/Classes/Maid]]
-Class: [[content/twi/Classes/Head Maid]]
+Class: [[twi/Classes/Maid]]
+Class: [[twi/Classes/Head Maid]]
 
-Location: [[content/twi/Locations/Invrisil]]
-Location: [[content/twi/Locations/Celum]]
+Location: [[twi/Locations/Invrisil]]
+Location: [[twi/Locations/Celum]]
 
-Affiliation: [[content/twi/Characters/Magnolia Reinhart]]
+Affiliation: [[twi/Characters/Magnolia Reinhart]]
+Affiliation: [[twi/Characters/Teriarch]]
+Affiliation: [[]]
+
+Organization: [[twi/Organization/Magnolia's Maids]]

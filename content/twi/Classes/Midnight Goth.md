@@ -1,1 +1,1 @@
-Class: [[content/twi/Classes/Goth]]
+Class: [[twi/Classes/Goth]]

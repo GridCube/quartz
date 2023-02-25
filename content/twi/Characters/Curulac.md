@@ -1,11 +1,11 @@
 
-Species: [[content/twi/Species/Goblin]]
-Species: [[content/twi/Species/Hobgoblin]]
+Species: [[twi/Species/Goblin]]
+Species: [[twi/Species/Hobgoblin]]
 
-Class: [[content/twi/Classes/Goblin King]]
+Class: [[twi/Classes/Goblin King]]
 
-Location: [[content/twi/Locations/Terandria]]
+Location: [[twi/Locations/Terandria]]
 
-Affiliation: [[content/twi/Characters/Greydath]]
+Affiliation: [[twi/Characters/Greydath]]
 
-Organization: [[content/twi/Organization/Curulac's Army]]
+Organization: [[Curulac's Army]]

@@ -1,14 +1,14 @@
-Species: [[content/twi/Species/Goblin]]
+Species: [[twi/Species/Goblin]]
 
-Class: [[content/twi/Classes/Witch]]
-Class: [[content/twi/Classes/Goblin Chieftan]]
-Class: [[content/twi/Classes/Witch of Flame]]
+Class: [[twi/Classes/Witch]]
+Class: [[twi/Classes/Goblin Chieftan]]
+Class: [[twi/Classes/Witch of Flame]]
 
-Affiliation: [[content/twi/Characters/Rags]]
-Affiliation: [[content/twi/Characters/Prixall]]
+Affiliation: [[twi/Characters/Rags]]
+Affiliation: [[twi/Characters/Prixall]]
 
-Location: [[content/twi/Locations/Deuse Valley]]
+Location: [[twi/Locations/Deuse Valley]]
 
-Organization: [[content/twi/Organization/Molten Stone Tribe]]
+Organization: [[twi/Organization/Molten Stone Tribe]]
 
 

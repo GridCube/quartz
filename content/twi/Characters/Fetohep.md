@@ -1,3 +1,3 @@
-Species: [[content/twi/Species/Human]]
-Species: [[content/twi/Species/Undead]]
+Species: [[twi/Species/Human]]
+Species: [[twi/Species/Undead]]
 

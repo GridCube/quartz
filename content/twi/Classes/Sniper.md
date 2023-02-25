@@ -1,1 +1,1 @@
-Class: [[content/twi/Classes/Archer]]
+Class: [[twi/Classes/Archer]]

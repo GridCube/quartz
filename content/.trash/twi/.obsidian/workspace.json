@@ -1,0 +1,264 @@
+{
+  "main": {
+    "id": "3085fdca57e35da8",
+    "type": "split",
+    "children": [
+      {
+        "id": "b01ed4be091f89cc",
+        "type": "split",
+        "children": [
+          {
+            "id": "34765908cb132300",
+            "type": "tabs",
+            "dimension": 42.24,
+            "children": [
+              {
+                "id": "d24eb779176d3661",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "Characters/Erin Solstice.md",
+                    "mode": "source",
+                    "source": false
+                  }
+                },
+                "group": "11919b17f23130b7"
+              }
+            ]
+          },
+          {
+            "id": "d3526cb270beda5f",
+            "type": "split",
+            "dimension": 57.76,
+            "children": [
+              {
+                "id": "450a906a058f2727",
+                "type": "tabs",
+                "dimension": 48.66369710467706,
+                "children": [
+                  {
+                    "id": "0d075c473d09dc0b",
+                    "type": "leaf",
+                    "pinned": true,
+                    "state": {
+                      "type": "graph",
+                      "state": {},
+                      "pinned": true
+                    }
+                  }
+                ]
+              },
+              {
+                "id": "d1b3964a010c1c61",
+                "type": "tabs",
+                "dimension": 51.33630289532294,
+                "children": [
+                  {
+                    "id": "1e0ef83c7519624a",
+                    "type": "leaf",
+                    "state": {
+                      "type": "localgraph",
+                      "state": {
+                        "file": "Characters/Erin Solstice.md",
+                        "options": {
+                          "collapse-filter": true,
+                          "search": "",
+                          "localJumps": 1,
+                          "localBacklinks": true,
+                          "localForelinks": true,
+                          "localInterlinks": false,
+                          "showTags": false,
+                          "showAttachments": false,
+                          "hideUnresolved": false,
+                          "collapse-color-groups": true,
+                          "colorGroups": [],
+                          "collapse-display": false,
+                          "showArrow": true,
+                          "textFadeMultiplier": -1,
+                          "nodeSizeMultiplier": 1,
+                          "lineSizeMultiplier": 1,
+                          "collapse-forces": true,
+                          "centerStrength": 0.518713248970312,
+                          "repelStrength": 10,
+                          "linkStrength": 1,
+                          "linkDistance": 250,
+                          "scale": 0.535979654890192,
+                          "close": true
+                        }
+                      }
+                    },
+                    "group": "11919b17f23130b7"
+                  }
+                ]
+              }
+            ],
+            "direction": "horizontal"
+          }
+        ],
+        "direction": "vertical"
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "596cfb0b8727d631",
+    "type": "split",
+    "children": [
+      {
+        "id": "2b67c5105b576a2a",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "8bd0543baa067987",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "69ad5b36c3d3b556",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "tag:#excalidraw",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": true,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "7a99f8a5af738fab",
+            "type": "leaf",
+            "state": {
+              "type": "starred",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 200,
+    "collapsed": true
+  },
+  "right": {
+    "id": "a68ba82db4efac23",
+    "type": "split",
+    "children": [
+      {
+        "id": "258b971d28351816",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "1889c40ca8f80f84",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "collapseAll": true,
+                "extraContext": true,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "3c99040cc79ee663",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "d514924e7cbb955a",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "95ec6e2346426b5a",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {}
+            }
+          },
+          {
+            "id": "c7f300b1a21a03e8",
+            "type": "leaf",
+            "state": {
+              "type": "side-panel-control-view",
+              "state": {}
+            }
+          }
+        ],
+        "currentTab": 4
+      }
+    ],
+    "direction": "horizontal",
+    "width": 324.5,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "canvas:Create new canvas": false,
+      "3d-graph:3D Graph": false
+    }
+  },
+  "active": "0d075c473d09dc0b",
+  "lastOpenFiles": [
+    "Characters/Erin Solstice.md",
+    "Characters/Galina.md",
+    "Characters/Ryoka Griffin.md",
+    "Locations/Wandering Inn.md",
+    "Characters/Rosencrantz.md",
+    "Classes/Adjunt Manager.md",
+    "Characters/Peggy.md",
+    "Species/Earther.md",
+    "Characters/Mrsha du Marquin.md",
+    "Organization/Halfseekers.md",
+    "Organization/Griffon Hunt.md",
+    "Organization/Necrocracy of Khelt.md",
+    "Organization/Order of Solstice.md",
+    "Characters/Wilovan.md",
+    "Locations/Izril.md",
+    "Pasted image 20230224154924.png",
+    "Characters/Relc Grasstongue.md",
+    "Characters/Ishkr Silverfang.md",
+    "Organization/Silverfang Tribe.md",
+    "Classes/Head Server of Tales and Fables.md",
+    "Organization/Gentlemen Callers.md",
+    "Organization/Brotherhood of Serendipitous Meetings.md",
+    "Characters/Selys Shivertail.md",
+    "Characters/Zevara Sunderscale.md",
+    "Organization/Liscor City Watch.md",
+    "Characters/Alber.md",
+    "Characters/Charlay.md",
+    "Untitled.canvas"
+  ]
+}

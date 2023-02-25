@@ -1,1 +1,1 @@
-Organization: [[content/twi/Organization/Walled Cities]]
+Organization: [[twi/Organization/Walled Cities]]

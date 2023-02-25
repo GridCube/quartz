@@ -1,5 +1,5 @@
-Species: [[content/twi/Species/Goblin]]
+Species: [[twi/Species/Goblin]]
 
-Class: [[content/twi/Classes/Mage]]
-Class: [[content/twi/Classes/Lightning Mage]]
+Class: [[twi/Classes/Mage]]
+Class: [[twi/Classes/Lightning Mage]]
 
